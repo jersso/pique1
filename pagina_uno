@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>MI PRIMERA PAGINA</title>
+</head>
+<body>
+    <p> <!--etiqueta para parrafo-->
+        hola mundo<br> <!--br etiqueta de salto de linea-->
+        como estas bro
+
+
+    </p>
+    <h1>NOTICIAS DE ULTIMA HORA</h1> <!--etiqueta para tamaño de fuente-->
+    <img src="hidro.png" width="150px"/><br>
+    <img src="https://es.wikipedia.org/wiki/U2#/media/Archivo:U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg"/>
+    <h2>Nacional</h2>
+    <h3>Palacio asegura no haber recibido</h3>
+    <br><br><br>
+    <a href="">IR A GOOGLE</a><br>
+    <a href="https://www.google.com" target="new">visitar</a> <!--target abre una nueva pestaña-->
+    <a href="word/tato.docx" target="new">ver documento</a><br>
+    
+    <ul><!--lista no ordenada-->
+        <li>tomate</li>
+        <li>cebolla</li>
+    </ul>
+
+    <ol><!--lista ordenada-->
+        <li>pasta</li>
+        <li>aji</li>
+    </ol><br>
+
+    
+
+
+
+</body> 
+</html>
